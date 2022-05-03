@@ -1,0 +1,45 @@
+ <!DOCTYPE html>  
+   <html dir="ltr">
+       
+<head>
+  <title>Ֆիկուս</title>
+  <meta charset="utf8"> 
+  <meta name="viewporet" content="width=device-width,initial-scale=0.1">
+  <style>
+    .parent{
+      width: 100;
+      height: auto;
+      color: rgb(219, 11, 11);
+      font-size: large;
+    }
+        #someid{
+          width: 150;
+          height: auto;
+          color: rgb(196, 35, 35);
+          font-size: larger;
+        }
+  </style>
+</head>
+<body>
+  
+    <p id="someid">Խնամքի պայմանները </p>
+    <h3>Լույս - Լուսաոր տեղ, պաշտպանված արևի ուղիղ ճառագայթներից</h3>
+    <h3>Ջերմաստիճան - չափաոր, բայց ոչ ցածր 10-12աստ.</h3>
+    <h3>Ջուր - չափաոր, չի սիրում ոչ շատ խոնավ, ոչ շատ չորացած հող </h3>
+    <h3>Խոնավություն - տերևներն անհրաժեշտ է կանոնաոր ցողել:</h3>
+
+        <p id="someid">Պատկերներ</p>                   
+        <img width="300" height="320"src="https://hdt.s5.cdn-upgates.com/_cache/0/f/0fc0b8d7d593a344985cf4bee9c6fea8.jpeg" alt="Ficus">
+        <img width="300" height="320" src="https://kwiatowydom.pl/wp-content/uploads/2020/10/Ficus-benjamin-juta.jpg" alt="Ficus">
+        
+        <br><br><br><br>
+        <div class="parent">
+       <a href="https://www.list.am/user/1770204"> My List.am </List></a>
+        <br>
+       <a href=" https://www.facebook.com/profile.php?id=100008109692790"> Facebook </a>
+        <br>
+       <a href="tel: +37499651145"> 099-65-11-45</a>
+       </div>
+</body>
+
+  </html>
